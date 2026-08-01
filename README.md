@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋 I'm Sakshi Agrawal
 
-<!--
-**sakshiag12/sakshiag12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 💻 Computer Science Engineer
+- 🎓 Pursuing M.Tech in Artificial Intelligence
+- 🌱 Learning Full Stack Development
+- 🤖 Interested in AI, Machine Learning and Web Development
+- 🚀 Building Real-world Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Python
+- C++
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- FastAPI
+- Node.js
+- PostgreSQL
+- Git & GitHub
+
+## Projects
+
+### Doctor Appointment Booking System
+- Next.js
+- FastAPI
+- Prisma
+- PostgreSQL
+
+### PDF RAG Chatbot
+- Python
+- LangChain
+- Gemini
+- FAISS
+
+## Connect
+
+Email:sakshiag12@gmail.com
